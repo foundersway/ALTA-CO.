@@ -1,0 +1,57 @@
+ALTA — Next Generation Crypto Trading &
+Learning Platform
+Project Overview
+Version 1.0 | June 2026
+Executive Summary
+ALTA is an ambitious next-generation platform that aims to surpass TradingView in the
+cryptocurrency space by combining powerful real-time charting, news aggregation,
+paper trading, and comprehensive trading education into one beautifully designed
+application.
+Our mission is to make professional-grade crypto trading accessible, educational, and
+visually stunning for beginners and experienced traders alike.
+Problem
+• Existing platforms (TradingView, CoinMarketCap, DexScreener) are fragmented.
+• New traders lack integrated education and safe practice environments.
+• Many tools have outdated or cluttered interfaces.
+Solution
+ALTA provides an all-in-one beautiful ecosystem:
+• Superior modern UI/UX with focus on visual excellence
+• Real-time advanced charting
+• Integrated demo (paper) trading accounts
+• Structured learning academy with progress tracking
+• News aggregator and sentiment overview
+• Portfolio tracker with wallet connection
+Unique Value Proposition
+• Best-in-class Visual Design — modern, dark, premium feel
+• Deep integration of Education + Practice directly in the trading interface
+• Future Web3 features (on-chain analytics, copy-trading, token economy)
+• Freemium model with strong community focus
+Target Audience
+• Crypto beginners wanting to learn trading
+• Intermediate and advanced traders
+• DeFi users and portfolio managers
+MVP Features
+1. Landing page & authentication
+2. Real-time multi-symbol charts (Lightweight Charts)
+3. Top coins list with search
+4. News aggregator
+5. Paper trading simulator
+6. Basic education section (articles + quizzes)
+7. Portfolio tracker
+Technology Stack
+• Frontend: Next.js 15, TypeScript, Tailwind CSS, shadcn/ui
+• Charts: TradingView Lightweight Charts
+• Database & Auth: Supabase (free tier)
+• APIs: CoinGecko, CCXT
+• Hosting: Vercel + Supabase
+Monetization
+• Freemium (Pro subscription for advanced features)
+• Affiliate partnerships with exchanges
+• Sponsored educational content
+• Future token/utility model
+Roadmap
+• Q3 2026: MVP Launch
+• Q4 2026: Wallet integration + advanced education
+• 2027: AI analytics, community features, mobile app
+Team
+Bootstrapped by passionate founder with strong design focus. Open to co-founders and contributors 
